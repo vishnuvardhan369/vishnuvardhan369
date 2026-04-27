@@ -55,8 +55,8 @@
 ## 📫 Connect With Me
 <p>
   📧 Email: yourmail@gmail.com <br>
-  💼 LinkedIn: https://linkedin.com/in/YOUR_LINK <br>
-  🧠 LeetCode: https://leetcode.com/YOUR_USERNAME
+  💼 LinkedIn: https://linkedin.com/in/vishnucheerla <br>
+  🧠 LeetCode: https://leetcode.com/vishnuvardhan7777
 </p>
 
 ---

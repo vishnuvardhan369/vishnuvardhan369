@@ -42,7 +42,7 @@
 
 ## 📫 Connect With Me
 <p>
-  📧 Email: yourmail@gmail.com <br>
+  📧 Email: vishnucheerla2005@gmail.com <br>
   💼 LinkedIn: https://linkedin.com/in/vishnucheerla <br>
   🧠 LeetCode: https://leetcode.com/vishnuvardhan7777
 </p>

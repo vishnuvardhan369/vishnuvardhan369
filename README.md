@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishnuvardhan Chowdary</h1>
-<h3 align="center">BTech CSE (AI) Student | Aspiring Software Engineer 🚀</h3>
+<h3 align="center">BTech CSE (AI) Student | Aspiring Software Engineer </h3>
 
 <p align="center">
   💡 Passionate about AI, coding & building real-world projects <br>
-  🎯 Goal: Crack a top placement & build impactful products
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 BTech in CSE (AI)
-- 💻 Currently learning DSA & Web Development
 - 🤖 Interested in AI, ML & Software Development
 - 📚 Love reading & self-improvement
 - ⚡ Always curious to learn new tech
